@@ -1,0 +1,132 @@
+{
+  "Categories": {
+    "0": {
+      "items": [
+        null,
+        {
+          "bonus": "a pot",
+          "color": "orange",
+          "image": "https://cdn.shopify.com/s/files/1/0382/3940/4076/products/933F6DD9-E739-4198-8C8F-E18560C4EA7B_250x250@2x.jpg",
+          "isTopOfTheWeek": false,
+          "name": "Young Min",
+          "origin": "Thailand",
+          "price": 29,
+          "rating": "4.5",
+          "weight": 150
+        },
+        {
+          "bonus": "No",
+          "color": "white",
+          "image": "https://cdn11.bigcommerce.com/s-r26j4fi927/images/stencil/1280x1280/products/3589/4042/C._Hawaiian_Wedding_Song_Virgin_HCC_copy__15631.1654784280.jpg",
+          "isTopOfTheWeek": false,
+          "name": "Hawaii Wedding Songs",
+          "origin": "Taiwan",
+          "price": 49,
+          "rating": "4.2",
+          "weight": 250
+        }
+      ],
+      "name": "Cattleya"
+    },
+    "1": {
+      "items": [
+        {
+          "bonus": "a thin Orchid",
+          "color": "pink",
+          "image": "https://live.staticflickr.com/65535/48630313466_592b1989d9_b.jpg",
+          "isTopOfTheWeek": true,
+          "name": "Blue Spin",
+          "origin": "Vietnam",
+          "price": 69,
+          "rating": "5.0",
+          "weight": 250
+        },
+        null,
+        {
+          "bonus": "no",
+          "color": "yellow",
+          "image": "https://cdn.shopify.com/s/files/1/0659/0834/3004/files/Dendrobium-Thongchai-Gold-X-Dendrobium-Candy-Stripe-La-Foresta-Orchids-267.jpg",
+          "isTopOfTheWeek": false,
+          "name": "Thongchai Gold",
+          "origin": "Thailan",
+          "price": 19,
+          "rating": "4.2",
+          "weight": 350
+        }
+      ],
+      "name": "Dendrobium"
+    },
+    "2": {
+      "items": [
+        null,
+        {
+          "bonus": "no",
+          "color": "pink",
+          "image": "https://i.pinimg.com/originals/75/08/24/7508245c78cfe5bd288d5608b4d11e62.jpg",
+          "isTopOfTheWeek": false,
+          "name": "Pink secret",
+          "origin": "Taiwan",
+          "price": 199,
+          "rating": "4.5",
+          "weight": 500
+        },
+        {
+          "bonus": "Small orchid",
+          "color": "Yellow",
+          "image": "https://theplantladysf.com/cdn/shop/products/image_3d172f07-c919-4acb-99be-55d83a722716.jpg",
+          "isTopOfTheWeek": false,
+          "name": "Yellow Moth",
+          "origin": "Vietnam",
+          "price": 99,
+          "rating": "4.2",
+          "weight": 150
+        }
+      ],
+      "name": "Phalaenopsis"
+    },
+    "Dendrobium": {
+      "items": [
+        {
+          "bonus": "a big pot",
+          "category": "Dendrobium",
+          "color": "white",
+          "image": "https://res.cloudinary.com/ufn/image/upload/c_pad,f_auto,fl_progressive,h_500,w_445/mkxrvxkdaboxn6xjq5f4.jpg",
+          "isTopOfTheWeek": true,
+          "name": "White lady",
+          "origin": "Taiwan",
+          "price": 299,
+          "rating": "5.0",
+          "weight": 200
+        }
+      ]
+    },
+    "Phalaenopsis": {
+      "items": [
+        {
+          "bonus": "a pot",
+          "category": "Phalaenopsis",
+          "color": "pink",
+          "image": "https://i.pinimg.com/originals/25/13/3d/25133df91301e29bcd36eec3949009ff.jpg",
+          "isTopOfTheWeek": true,
+          "name": "Taichung beauty test",
+          "origin": "Taiwan",
+          "price": 39,
+          "rating": "5.0",
+          "weight": 120
+        },
+        {
+          "bonus": "a pot",
+          "category": "Phalaenopsis",
+          "color": "white",
+          "image": "https://orchidroots.com/static/utils/images/species/spc_000027949_000057578.jpg",
+          "isTopOfTheWeek": false,
+          "name": "Daerei",
+          "origin": "Thailand",
+          "price": 59,
+          "rating": "4.5",
+          "weight": 300
+        }
+      ]
+    }
+  }
+}
